@@ -3,7 +3,7 @@ First install npm dependencies of express and mongoose using npm install command
 Start the backend server using npm start or node src/index.js command.
 We are using MONGODB CLOUD for database
 HTTP request methods used in the project
-GET http://localhost:3000/ → The client will see the “Hello User!” message which is used to verify that application is working properly.
+GET http://localhost:3000/ → The client will see the “almabetter  capstone project by Kunal Tripathy and Srikanta kumar Rout” message which is used to verify that application is working properly.
 
 GET http://localhost:3000/subscribers → When the user hit this, *endpoint /subscribers, the client will *get an array of all subscribers in JSON format from the database where the data is stored in local MongoDB database.
 
